@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "2048",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "category": "Puzzle",
+    "description": "Join the numbers and get to the 2048 tile!"
+  },
+  {
+    "id": "2",
+    "title": "Tetris",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "category": "Classic",
+    "description": "The classic block-stacking puzzle game."
+  },
+  {
+    "id": "3",
+    "title": "Snake",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "category": "Arcade",
+    "description": "Classic arcade action."
+  },
+  {
+    "id": "4",
+    "title": "Chess",
+    "url": "https://www.chess.com/play/online",
+    "thumbnail": "https://picsum.photos/seed/chess/400/300",
+    "category": "Strategy",
+    "description": "Play chess against the world."
+  },
+  {
+    "id": "5",
+    "title": "Little Alchemy 2",
+    "url": "https://littlealchemy2.com/",
+    "thumbnail": "https://picsum.photos/seed/alchemy/400/300",
+    "category": "Puzzle",
+    "description": "Combine elements to create the world."
+  },
+  {
+    "id": "6",
+    "title": "Paper.io 2",
+    "url": "https://paper-io.com/",
+    "thumbnail": "https://picsum.photos/seed/paperio/400/300",
+    "category": "IO",
+    "description": "Capture as much territory as possible."
+  },
+  {
+    "id": "7",
+    "title": "Slope",
+    "url": "https://slopegame.io/",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "category": "Arcade",
+    "description": "Fast-paced ball rolling game."
+  },
+  {
+    "id": "8",
+    "title": "Cookie Clicker",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "category": "Idle",
+    "description": "The ultimate idle game."
+  }
+]
